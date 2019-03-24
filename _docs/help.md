@@ -1,9 +1,11 @@
 ---
 layout: doc
-title: Creating new page in Jekyll and publishing
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
-tags: featured othertag
+title: Understanding company billing and accounts
+subtitle:
+tags: featured
 ---
+
+>This site is developer focused. For a holistic overview of the product you should go to [NationBuilder.com](https://www.nationbuilder.com). 
 
 #### Sections in this article
 {:.no_toc}

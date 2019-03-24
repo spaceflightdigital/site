@@ -1,16 +1,16 @@
 # Categories home page navigation
 
-- title: Getting Started
-  desc: Get your account up and running in just few easy steps
-  icon: settings
-  doc: home
+- title: Quick Intro
+  desc: How it's different from WordPress and standard site development.
+  icon: bolt
+  doc: intro
 
-- title: Account and Billing
-  desc: Managing your account, creating new users and exporting data
-  icon: credit-card
-  doc: frontmatter
+- title: Developing
+  desc: Code specific scenarios focused on building sites and themes.
+  icon: code
+  doc: dev
 
 - title: Troubleshooting
-  desc: Answers to most common configuration issues
-  icon: cog
-  doc: variables
+  desc: Common how-to questions and walkthroughs for complex setups.
+  icon: lifesaver
+  doc: help

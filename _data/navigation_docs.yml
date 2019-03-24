@@ -1,25 +1,17 @@
-- title: Getting Started
+- title: Quick Intro
   docs:
-  - home
-  - quickstart
-  - installation
-  - windows
+  - intro
+  - usage
 
-- title: Account and Billing
+- title: Developing
   docs:
-  - frontmatter
+  - dev
   - posts
   - drafts
   - pages
 
-- title: Customization
-  docs:
-  - usage
-  - structure
-  - configuration
-
 - title: Troubleshooting
   docs:
-  - variables
+  - help
   - collections
   - assets

@@ -1,10 +1,12 @@
 ---
 layout: doc
-title: Getting a JavaScript console error
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+title: Settings up Jekkyl on Github pages
+subtitle: 
+tags: othertag
 author:
-tags: featured
 ---
+
+>This site is developer focused. For a holistic overview of the product you should go to [NationBuilder.com](https://www.nationbuilder.com). 
 
 #### Sections in this article
 {:.no_toc}

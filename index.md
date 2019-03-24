@@ -1,14 +1,14 @@
 ---
 layout: home
 hero:
-    title: How Can We Help?
-    subtitle: Search or browse in depth articles and videos on everything Jekyll, from basic theme setup and hosting to customisation and development
-    image: imac.svg
+    title: NationBuilder for Developers
+    subtitle: An unofficial guide to creating sites and navigating the powerful platform that is NationBuilder
+    image: logo.png
     search: true
 categories:
     columns: 3
     title: Browse Topics
-    subtitle: Get your answers fast, jump to most popular documentation content
+    subtitle: Get your answers fast, jump to our most popular use-cases
 featured:
     title: Popular Articles
     tag: featured
